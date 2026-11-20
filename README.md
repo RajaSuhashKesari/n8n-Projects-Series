@@ -44,123 +44,122 @@ I am following a YouTube course and building each project myself instead of just
 
 ## 📚 Course Roadmap
 
-\<details>
-\<summary>\<b>Part 1 — Introduction, Opportunities & AI Basics\</b>\</summary>
+<details>
+<summary><b>Part 1 — Introduction, Opportunities & AI Basics</b></summary>
 
 - [ ] Course Introduction, Free Portal & Community
 - [ ] Career & Monetization Opportunities
 - [ ] Complete 14-Part Syllabus Overview
 - [ ] AI, ML, Deep Learning & Agents Basics
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 2 — n8n Fundamentals\</b>\</summary>
+<details>
+<summary><b>Part 2 — n8n Fundamentals</b></summary>
 
 - [ ] What is n8n? Hosting & Free Cloud Trick
 - [ ] Interface, Workspaces, Credentials & Templates
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 3 — Core Automations\</b>\</summary>
+<details>
+<summary><b>Part 3 — Core Automations</b></summary>
 
 - [ ] n8n Nodes Deep Dive (Triggers, Actions & Flow)
 - [ ] JSON, XML, Binary Data & Expressions
 - [ ] Build 5 Core Automation Projects
 - [ ] n8n Built-in AI Workflow Assistant
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 4 — AI Nodes & AI Automations\</b>\</summary>
+<details>
+<summary><b>Part 4 — AI Nodes & AI Automations</b></summary>
 
 - [ ] AI Nodes Explained (Chains, Classifiers & Extractors)
 - [ ] Build 5 AI Automation Projects
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 5 — Human-in-the-Loop (HITL)\</b>\</summary>
+<details>
+<summary><b>Part 5 — Human-in-the-Loop (HITL)</b></summary>
 
 - [ ] HITL Approval Nodes & Workflows
 - [ ] LinkedIn Post & AI Image Generator with Human Approval
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 6 — HTTP Requests, APIs & AI Voice Agents\</b>\</summary>
+<details>
+<summary><b>Part 6 — HTTP Requests, APIs & AI Voice Agents</b></summary>
 
 - [ ] HTTP Requests, REST APIs, cURL & Authentication
 - [ ] Outbound Voice Agent with Retell AI
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 7 — AI Agents & Tool Calling\</b>\</summary>
+<details>
+<summary><b>Part 7 — AI Agents & Tool Calling</b></summary>
 
 - [ ] AI Agent Architecture (Memory, Tools & Prompts)
 - [ ] Restaurant Support Telegram Bot
 - [ ] Multi-Modal Bot (Text, Voice & Image)
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 8 — RAG Agents\</b>\</summary>
+<details>
+<summary><b>Part 8 — RAG Agents</b></summary>
 
 - [ ] RAG Theory & Vector Pipeline
 - [ ] Pinecone + Google Drive Knowledge Bot
 - [ ] Pinecone Assistant + Lovable Integration
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 9 — Error Handling, Evaluations & Guardrails\</b>\</summary>
+<details>
+<summary><b>Part 9 — Error Handling, Evaluations & Guardrails</b></summary>
 
 - [ ] Error Handling, Retries & Global Error Workflows
 - [ ] AI Evaluations, Guardrails & Observability
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 10 — Web Scraping\</b>\</summary>
+<details>
+<summary><b>Part 10 — Web Scraping</b></summary>
 
 - [ ] Web Scraping with Firecrawl & Apify
 - [ ] LinkedIn Job Scraper + Dashboard
 - [ ] Automated HR Candidate Screener
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 11 — MCP Agents\</b>\</summary>
+<details>
+<summary><b>Part 11 — MCP Agents</b></summary>
 
 - [ ] MCP Explained (Host, Client & Server)
 - [ ] n8n MCP + Claude: Auto-Building WhatsApp Agent
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 12 — Multi-Agent Systems\</b>\</summary>
+<details>
+<summary><b>Part 12 — Multi-Agent Systems</b></summary>
 
 - [ ] Multi-Agent System: AI Personal Assistant
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 13 — Job Case Study & Enterprise Demo\</b>\</summary>
+<details>
+<summary><b>Part 13 — Job Case Study & Enterprise Demo</b></summary>
 
 - [ ] ₹1.1 Lakh/Month Job Case Study & Interview Breakdown
 - [ ] Enterprise Demo: LinkedIn & YouTube Content Engine
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>Part 14 — Next Steps & Career Roadmap\</b>\</summary>
+<details>
+<summary><b>Part 14 — Next Steps & Career Roadmap</b></summary>
 
 - [ ] Post-Course Action Plan & Career Roadmap
 
-\</details>
-
+</details>
 ---
 
 # 💻 Projects
