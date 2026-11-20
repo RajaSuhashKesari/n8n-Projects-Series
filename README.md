@@ -160,7 +160,6 @@ I am following a YouTube course and building each project myself instead of just
 - [ ] Post-Course Action Plan & Career Roadmap
 
 </details>
----
 
 # 💻 Projects
 
